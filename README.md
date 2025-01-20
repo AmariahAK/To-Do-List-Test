@@ -38,7 +38,6 @@ To start the application, run:
 - Sequelize
 - SQLite
 - CORS
-- dotenv
 
 ## License
 This project is licensed under the ISC License.
